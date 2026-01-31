@@ -1,14 +1,14 @@
-#🎵 Spotify Music Insights Dashboard | Power BI
+# 🎵 Spotify Music Insights Dashboard | Power BI
 
 
-##📌 Overview
+## 📌 Overview
 
 Spotify-Music-Insights-PowerBI is an interactive Power BI dashboard designed to analyze and visualize Spotify streaming data.
 The dashboard provides clear insights into top streamed songs, popular artists, stream counts, and overall music trends, helping users understand Spotify listening patterns through data-driven visuals.
 
 ---
 
-##🎯 Project Objective
+## 🎯 Project Objective
 
 The objective of this project is to:
 
@@ -22,7 +22,7 @@ Provide an interactive and user-friendly dashboard for exploration
 
 ---
 
-##✨ Dashboard Features
+## ✨ Dashboard Features
 
 Visualization of top streamed songs on Spotify
 
@@ -36,7 +36,7 @@ Clean and intuitive dashboard layout for easy analysis
 
 ---
 
-##📊 Insights Provided by the Dashboard
+## 📊 Insights Provided by the Dashboard
 
 Which songs are streamed the most
 
@@ -48,8 +48,8 @@ Patterns in user music preferences based on stream counts
 
 ---
 
-##🚀 Usage
-###1️⃣ Data Preparation
+## 🚀 Usage
+### 1️⃣ Data Preparation
 
 Use a dataset containing Spotify streaming data
 
@@ -61,7 +61,7 @@ Ensure proper formatting of columns
 
 Prepare data for Power BI analysis
 
-###2️⃣ Dashboard Development
+### 2️⃣ Dashboard Development
 
 Open Power BI Desktop
 
@@ -77,7 +77,7 @@ Interactive slicers for filtering
 
 Design the dashboard to ensure clarity and ease of use
 
-###3️⃣ Exploration & Analysis
+### 3️⃣ Exploration & Analysis
 
 Interact with the dashboard using slicers
 
@@ -93,7 +93,7 @@ Gain insights into Spotify music consumption trends
 
 ---
 
-##🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Power BI Desktop
 
@@ -105,13 +105,13 @@ Data Visualization & Analytics
 
 ---
 
-##📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 <img width="1145" height="651" alt="image" src="https://github.com/user-attachments/assets/5a990175-c9d0-4466-9af4-c8ba8bf0f102" />
 
 ---
 
-##🚀 How to Access
+## 🚀 How to Access
 
 Download the .pbix file
 
@@ -121,7 +121,7 @@ Interact with filters and visuals
 
 ---
 
-##👩‍🎓 Created By
+## 👩‍🎓 Created By
 
 Tanvi Powar
 
